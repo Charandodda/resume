@@ -1,0 +1,260 @@
+#backgroundtemplate
+{
+    background-color:grey;
+    height:1200px;
+    margin:0px;
+}
+#resumetemplate
+{
+    height:1150px;
+    width:60%;
+    background-color:white;
+    margin:0% 20% 0% 20%;
+    border:1px solid black;
+}
+#careerdescriptiontemplate
+{
+    font-family: sans-serif;
+    font-size: small;
+    padding:15px;
+    text-indent: 0px;
+    margin:10px;
+    margin-top:0px;
+    text-align: justify;
+}
+#grid1
+{
+    display:grid;
+    grid-template-columns:50% 50%;
+    grid-template-rows: 25px 25px 25px;
+}
+#gridcolumn1,#gridcolumn2
+{
+    /* border:1px solid black; */
+    height:785px;
+    margin-top:0px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-left:15px;
+    padding:5px;
+}
+.details
+{
+    font-size:14px;
+    margin-bottom:0px;
+}
+.main
+{
+    display:flex;
+    width:fit-content;
+}
+.main1
+{
+    margin:35px;
+}
+.main2
+{
+    /* border: 1px solid black; */
+    padding-top:35px; 
+    padding-bottom:0px; 
+    width:fit-content; 
+    height:fit-content; 
+    font-size:30px;
+    font-weight:bolder;
+}
+.main21
+{
+    font-size:20px; 
+    margin:0px; 
+    margin-top:2px;
+}
+.main3
+{
+    display:flex; 
+    flex-direction:column; 
+    width:fit-content; 
+    height:fit-content;
+    margin-left:85px;
+}
+.resumepic
+{
+    border-radius:50%;
+}
+.ed
+{
+    font-size:15px;
+    margin:3px;
+}
+.date1
+{
+    margin:1px; 
+    margin-left:2px;
+    font-size:10px;
+}
+.subgrid1
+{
+    display:grid; 
+    grid-template-columns:125px 125px; 
+    grid-template-rows:30px 30px;
+}
+.subgride1
+{
+    font-size:10px; 
+    margin-top:1px; 
+    margin-left:10px; 
+    margin-right:20px; 
+    padding:4px;
+}
+.subgride2
+{
+    font-size:10px; 
+    margin-top:1px; 
+    margin-left:20px; 
+    padding:4px;
+}
+.gridcoled
+{
+    margin:0px;
+}
+.gridcoled1
+{
+    margin-top:2px; 
+    margin-bottom:10px;
+}
+.gridcoled2
+{
+    height:fit-content; 
+    padding-bottom:0px;
+}
+.skills
+{
+    border:1px solid grey; 
+    margin:2px; 
+    width:fit-content; 
+    padding:5px; 
+    border-radius:4px; 
+    display:inline-block;
+}
+.hobbies
+{
+    color:black; 
+    font-size:12px;
+}
+.lang
+{
+    margin:2px; 
+    width:fit-content; 
+    padding:5px; 
+    border-radius:4px; 
+    display:inline-block;
+}
+.langb
+{
+    color:black;
+}
+.langi
+{
+    font-size:10px;
+}
+.gridcol2
+{
+    margin:0px;
+}
+.gridcol21
+{
+    margin-top:2px; 
+    margin-bottom:10px;
+}
+.gridcol22
+{
+    background-color:rgba(79, 76, 76, 0.917); 
+    margin:2px; 
+    width:fit-content; 
+    padding:5px; 
+    border-radius:4px; 
+    display:inline-block;
+}
+.gridcol23
+{
+    color:white; 
+    font-size:12px;
+}
+.gridcol24
+{
+    font-size:14px;
+}
+.gridcol25
+{
+    font-weight:lighter;
+    font-size:small;
+}
+.gridcol26
+{
+    font-weight:lighter;
+    font-size:smaller; 
+    color:grey;
+}
+.gridcoled3
+{
+    height:fit-content;
+}
+.gridcoled4
+{
+    margin:0px;
+}
+.gridcoled41
+{
+    margin-top:2px; 
+    margin-bottom:15px;
+}
+.gridcoled5
+{
+    margin-top:5px; 
+    padding:2px;
+}
+.gridcoled51
+{
+    font-weight:bold; 
+    font-size:14px;
+    margin:2px;
+}
+.gridcoled52
+{
+    font-weight:bold; 
+    font-size:14px;
+    margin:2px; 
+    margin-top:10px;
+}
+.gridcoled53
+{
+    text-align:justify; 
+    margin:3px; 
+    margin-left:10px; 
+    margin-top:3px; 
+    margin-bottom:10px; 
+    font-size:12px;
+}
+.gridcoled54
+{
+    margin-top:5px; 
+    padding:2px;
+}
+.gridcoled55
+{
+    text-align:justify; 
+    margin:3px; 
+    margin-left:10px; 
+    margin-top:5px; 
+    margin-bottom:10px; 
+    font-size:12px;
+}
+.gridcoled56
+{
+    margin-top:5px; 
+    padding:2px;
+}
+.sah
+{
+    margin-top:2px; 
+    margin-bottom:10px;
+}
